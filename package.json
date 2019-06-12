@@ -1,0 +1,29 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "apollo-boost": "^0.3.1",
+    "expo": "^32.0.0",
+    "firebase": "^6.1.0",
+    "graphql": "^14.1.1",
+    "graphsql": "0.0.0",
+    "lottie-react-native": "^2.6.1",
+    "react": "16.5.0",
+    "react-apollo": "^2.5.2",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-showdown": "^0.4.0",
+    "react-navigation": "^3.3.2",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "styled-components": "^4.1.3"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
